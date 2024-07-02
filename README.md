@@ -1,0 +1,1 @@
+This is another python mini-project that I worked on. It shows the students grade total and also gives the evaluation based on the conditions. 
